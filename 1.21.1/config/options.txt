@@ -1,0 +1,16 @@
+version:3955
+advancedItemTooltips:true
+guiScale:2
+joinedFirstServer:true
+operatorItemsTab:true
+skipMultiplayerWarning:true
+telemtryOptInExtra:false
+tutorialStep:none
+fov:0.5
+gamma:1
+enableVsync:false
+maxFps:60
+mouseSensitivity:0.4
+pauseOnLostFocus:false
+onboardAccessibility:false
+soundCategory_master:0.5
