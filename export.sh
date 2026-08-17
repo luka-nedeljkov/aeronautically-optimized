@@ -5,7 +5,7 @@ print_help() {
 	exit 1
 }
 
-cd 1.21.1
+cd packwiz
 
 packwiz mr export
 
@@ -19,7 +19,7 @@ fi
 cp "$filename" ../
 cd ..
 mv "Aeronautically Optimized-"*.mrpack "$(ls "Aeronautically Optimized-"*.mrpack | sed 's/\.mrpack/-server.mrpack/')"
-cd 1.21.1
+cd packwiz
 
 mkdir temp
 mv "$filename" temp
