@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/bcc-common.toml"
-hash = "672327f6732b6d70067c110756ec5f39b8aa20ee9093b574984e43e3a34a32d9"
+hash = "05670e444b025317a091a76b5ec2adec0e4ff429eecdbbf308874ebf28db1c8c"
 
 [[files]]
 file = "config/modpack_defaults/config/carpet/default_carpet.conf"
@@ -78,7 +78,7 @@ hash = "682d994293b4222b70b3de17e6e1ec9c3314ed36cbe672418d2a7d17fb8dd2d6"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "ee77a64f7c3be49d7722a46c968ffae81206a5dae2ca140d7826c3c15ea75793"
+hash = "683d7006c94e755b3513fcc1cc09ceb9d2d873f7fed81398921798f1a5c6d506"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -864,11 +864,6 @@ metafile = true
 [[files]]
 file = "mods/voxy-0.2.15-beta.jar"
 hash = "a7434f8543a73d10229af6fd0fb8845d9cfa177e5119f43e2522d4c63d6f5d0c"
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
-metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
