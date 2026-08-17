@@ -1,0 +1,34 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "tag": "c:nuggets/zinc"
+    },
+    {
+      "tag": "c:nuggets/zinc"
+    },
+    {
+      "tag": "c:nuggets/zinc"
+    },
+    {
+      "tag": "c:nuggets/zinc"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:asurine",
+      "count": 2
+    }
+  ]
+}
