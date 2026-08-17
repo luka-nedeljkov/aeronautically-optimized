@@ -1,5 +1,6 @@
 RecipeViewerEvents.removeEntries('item', event => {
   const itemsToHide = [
+    'easy_villagers:auto_trader',
     'easy_villagers:farmer',
     'easy_villagers:breeder',
     'easy_villagers:converter',

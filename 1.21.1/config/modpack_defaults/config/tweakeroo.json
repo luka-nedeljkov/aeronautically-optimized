@@ -228,7 +228,7 @@
       "keys": ""
     },
     "elytraCamera": {
-      "keys": ""
+      "keys": "V"
     },
     "flexibleBlockPlacementAdjacent": {
       "keys": "Y"
@@ -363,7 +363,7 @@
       "keys": ""
     },
     "zoomActivate": {
-      "keys": "B"
+      "keys": ""
     }
   },
   "Internal": {
@@ -677,7 +677,7 @@
       }
     },
     "disableSkyDarkness": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -884,7 +884,7 @@
     "tweakCommandBlockExtraFields": false,
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
-    "tweakElytraCamera": false,
+    "tweakElytraCamera": true,
     "§6tweakEntityReachOverride§r": false,
     "tweakEntityTypeAttackRestriction": false,
     "§6tweakEmptyShulkerBoxesStack§r": false,
@@ -910,7 +910,7 @@
     "tweakHotbarSwap": false,
     "§6tweakInventoryPreview§r": false,
     "tweakItemUnstackingProtection": false,
-    "tweakLavaVisibility": true,
+    "tweakLavaVisibility": false,
     "tweakMapPreview": true,
     "tweakMovementKeysLast": false,
     "tweakPeriodicAttack": false,
@@ -1085,7 +1085,7 @@
       "keys": ""
     },
     "tweakLavaVisibility": {
-      "keys": ""
+      "keys": "LEFT_CONTROL,P"
     },
     "tweakMapPreview": {
       "keys": ""

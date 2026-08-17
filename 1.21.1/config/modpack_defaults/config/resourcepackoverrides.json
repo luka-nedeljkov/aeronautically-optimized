@@ -1,0 +1,67 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "mod_resources",
+    "mod/musicnotification:resourcepacks/vanillabackport",
+    "moonlight:merged_pack",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "file/Redstone Tweaks 2.4.5.zip",
+    "file/Vanilla Tweaks 1.21.1.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "hidden": true
+    },
+    "fabric": {
+      "hidden": true
+    },
+    "mod_resources": {
+      "hidden": true
+    },
+    "mod/musicnotification:resourcepacks/vanillabackport": {
+      "hidden": true
+    },
+    "moonlight:merged_pack": {
+      "hidden": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true
+    },
+    "continuity:default": {
+      "hidden": true
+    },
+    "file/Redstone Tweaks 2.4.5.zip": {
+      "title": "\"Redstone Tweaks\""
+    },
+    "file/Vanilla Tweaks 1.21.1.zip": {
+      "title": "\"Vanilla Tweaks\""
+    },
+    "file/Ore Borders 1.21.1.zip": {
+      "title": "\"Ore Borders\""
+    },
+    "programmer_art": {
+      "hidden": true
+    },
+    "high_contrast": {
+      "hidden": true
+    },
+    "mod/musicnotification:resourcepacks/dark_mode": {
+      "hidden": true
+    },
+    "betterbeds:fancyconnectedbeds": {
+      "hidden": true
+    },
+    "vanillabackport:freshly_animated": {
+      "hidden": true
+    },
+    "vanillabackport:freshly_animated_legacy": {
+      "hidden": true
+    }
+  }
+}
