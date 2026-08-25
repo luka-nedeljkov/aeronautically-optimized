@@ -1,12 +1,12 @@
 name = "Aeronautically Optimized"
 author = "Looney"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d0afa993204aa0764c834d2668784c1fc18459066d1bb2228debc767754f7818"
+hash = "1e229d904607fac57b3faaaec36b2ea669d6cb52d3e1deb5a1500d3e86f84f59"
 
 [versions]
 minecraft = "1.21.1"

@@ -1,5 +1,10 @@
 # Aeronautically Optimized Changelog
 
+## 1.2.0 (2026-08-26)
+
+* Added Cut Through, TrashSlot
+* Updated Crafting Tweaks, Create: Aeronautics, Create: Copycats+, Create: Enchantment Industry, Create: Simulated Copycats, Farmer's Delight, Forgified Fabric API, Gravestone Mod, InventoryEssentials, Jde Sable Compat, JEI, KubeJS, LOD Server Support, Moonlight Lib, Sable, Tiny Redstone, Vista, Xaero's World Map
+
 ## 1.1.1 (2026-08-17)
 
 * Removed WorldEdit
