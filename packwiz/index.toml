@@ -78,7 +78,7 @@ hash = "682d994293b4222b70b3de17e6e1ec9c3314ed36cbe672418d2a7d17fb8dd2d6"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "683d7006c94e755b3513fcc1cc09ceb9d2d873f7fed81398921798f1a5c6d506"
+hash = "a2382fb444de9abe20e58f274a5d17ed998f32e72a6264cb157ee7a956c5557a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
