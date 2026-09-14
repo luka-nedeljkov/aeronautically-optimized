@@ -1,5 +1,9 @@
 # Aeronautically Optimized Changelog
 
+## 1.3.1 (2026-09-14)
+
+* Updated Euphoria Patches
+
 ## 1.3.0 (2026-09-14)
 
 * Added Create: Diesel Generators
