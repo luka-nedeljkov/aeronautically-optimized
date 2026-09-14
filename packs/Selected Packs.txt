@@ -1,0 +1,36 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	HoeFix
+	HangingSignLogs
+	WitherHearts
+	UnobtrusiveScaffolding
+	LowerFire
+	LowerShield
+	TransparentPumpkin
+	TransparentSpyglassOverlay
+	UniquePaintingItems
+	VisualInfestedStoneItems
+	DifferentStems
+	Age25Kelp
+	ClearBannerPatterns
+	VisualWaxedCopperItems
+	AnimatedCampfireItem
+	HDShieldBanners
+	BetterParticles
+	ProperBreakParticles
+	SlimeParticleFix
+	BlazeFix
+	ConsistentDecorPot
+	ConsistentEggNames
+	RedstoneWireFix
+	JappaSpecIcons
+	JappaStatsIcons
+	JappaObserver
+	ItemStitchingFix
+	ConsistentUIFix
+	NoBowlParticles
+	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles

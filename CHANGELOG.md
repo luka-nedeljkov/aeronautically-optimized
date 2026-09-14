@@ -1,5 +1,12 @@
 # Aeronautically Optimized Changelog
 
+## 1.3.0 (2026-09-14)
+
+* Added Create: Diesel Generators
+* Updated BaguetteLib, CBC Enchanced Shells, Colorwheel, Create: Copycats+, Create Aeronautics, Create: Aeroworks, Create: Dragons Plus, Create: Liquid Fuel, Create: Tracks+, Create: Deployer API, [EMF] Entity Model Features, [ETF] Entity Texture Features, Euphoria Patches, Create: Extra Gauges, Farmer's Delight, ImmediatelyFast, Immersive Paintings, Jade Addons (Neo/Forge), Just Enough Items (JEI), KubeJS, LambDynamicLights - Dynamic Lights, LOD Server Support, ModernFix, Moonlight Lib, More Culling, Polymorph, Puzzles Lib, Sodium, Sophisticated Backpacks Create Integration, Sophisticated Backpacks, Sophisticated Core, vista, Xaero's Minimap, Xaero's World Map
+* Updated Complementary Shaders - Reimagined
+* Removed Vanilla Tweaks resource pack
+
 ## 1.2.0 (2026-08-26)
 
 * Added Cut Through, TrashSlot
